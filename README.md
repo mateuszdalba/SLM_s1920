@@ -96,7 +96,7 @@ The task is to analyze the data and produce a report with following structure:
 
 `10pts` 6) Summary, discussion on encountered problems and their solution e.g. how overfitting was avoided or imbalanced data mitigated
 
-Code and descriptions/comments should be in Jupyter or R Markdown notebook. Both groups (104 and 105) are allowed to choose either R or Python (also remember there is Jupyter kernel for R). Please send reports to _lukasz.krainski123@gmail.com_ with following naming convention <index_number>_SLM_S1920_Report.< extension > before **03.06.2020r. EOD**. 
+Code and descriptions/comments should be in Jupyter or R Markdown notebook. Both groups (104 and 105) are allowed to choose either R or Python (also remember there is Jupyter kernel for R). Please send reports to _agata.skorupka@gmail.com_ with following naming convention <index_number>_SLM_S1920_Report.< extension > before **10.06.2020r. EOD**. 
   
 Each email should have 2 attachments: 
 - for Jupyter: `.ipynb` file and `.html/.pdf` file generated from notebook, 
