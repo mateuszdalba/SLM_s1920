@@ -2,36 +2,6 @@
 Repository for Statistical Learning Methods [223490-0286] - Summer semester 2019/20
 
 ---
-**Modeling problem report**
-
-Every student will be assigned to one dataset from [UCI Repository](https://archive.ics.uci.edu/ml/datasets.php).
-The task is to analyze the data and produce a report with following structure:
-
-`5pts` 1) Introduction, problem description (regression/classification/clustering/etc.), target variable and features explanation
-
-`10pts` 2) Cleaning and preprocessing data - removing or imputing missing data, standarization, one-hot encoding, handling outliers, etc.
-
-`10pts` 3) EDA with focus on exploring relations between features nad target variable
-
-`5pts` 4) Creating models, hyperparameter tuning
-
-`10pts` 5) Graphical and descriptive model assessment
-
-`10pts` 6) Summary, discussion on encountered problems and their solution e.g. how overfitting was avoided or imbalanced data mitigated
-
-Code and descriptions/comments should be in Jupyter or R Markdown notebook. Both groups (104 and 105) are allowed to choose either R or Python (also remember there is Jupyter kernel for R). Please send reports to _lukasz.krainski123@gmail.com_ with following naming convention <index_number>_SLM_S1920_Report.< extension > before **03.06.2020r. EOD**. 
-  
-Each email should have 2 attachments: 
-- for Jupyter: `.ipynb` file and `.html/.pdf` file generated from notebook, 
-- for R Markdown:  `.Rmd` file and `.html/.pdf` file generated from notebook.
-
-Below table of randomly picked datasets. If someone is missing on the list please contact me. If there is more than one dataset under given hyperlink, pick one.
-
-| Index  | Dataset Name                                        | URL                                                                                          | Data Types                             | Default Task                | Attribute Types             | # Instances | # Attributes |
-|--------|-----------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|-----------------------------|-----------------------------|-------------|--------------|
-TBA
-
----
 **Contact**
 
 Name: Agata Skorupka
@@ -107,6 +77,36 @@ Optional: B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publish
 materials
 
 • Possible extra points: homeworks, competition
+
+---
+**Modeling problem report**
+
+Every student will be assigned to one dataset from [UCI Repository](https://archive.ics.uci.edu/ml/datasets.php).
+The task is to analyze the data and produce a report with following structure:
+
+`5pts` 1) Introduction, problem description (regression/classification/clustering/etc.), target variable and features explanation
+
+`10pts` 2) Cleaning and preprocessing data - removing or imputing missing data, standarization, one-hot encoding, handling outliers, etc.
+
+`10pts` 3) EDA with focus on exploring relations between features nad target variable
+
+`5pts` 4) Creating models, hyperparameter tuning
+
+`10pts` 5) Graphical and descriptive model assessment
+
+`10pts` 6) Summary, discussion on encountered problems and their solution e.g. how overfitting was avoided or imbalanced data mitigated
+
+Code and descriptions/comments should be in Jupyter or R Markdown notebook. Both groups (104 and 105) are allowed to choose either R or Python (also remember there is Jupyter kernel for R). Please send reports to _lukasz.krainski123@gmail.com_ with following naming convention <index_number>_SLM_S1920_Report.< extension > before **03.06.2020r. EOD**. 
+  
+Each email should have 2 attachments: 
+- for Jupyter: `.ipynb` file and `.html/.pdf` file generated from notebook, 
+- for R Markdown:  `.Rmd` file and `.html/.pdf` file generated from notebook.
+
+Below table of randomly picked datasets. If someone is missing on the list please contact me. If there is more than one dataset under given hyperlink, pick one.
+
+| Index  | Dataset Name                                        | URL                                                                                          | Data Types                             | Default Task                | Attribute Types             | # Instances | # Attributes |
+|--------|-----------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|-----------------------------|-----------------------------|-------------|--------------|
+TBA
 
 ---
 **Grading rules**
