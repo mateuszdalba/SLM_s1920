@@ -8,8 +8,7 @@
 #extremely random forests,
 #boosted trees
 
-path <- "C:/Users/agata.skorupka/Documents/Workspace II/Teaching/Statistical Learning Methods/SRD_Z1920-master/Zajecia4"
-dataset = read.csv("Cwiczenia4_dane.csv",
+dataset = read.csv("https://raw.githubusercontent.com/askorupka/SLM_s1920/master/Class4/Class4_data.csv",
                    header=T, stringsAsFactors = F)
 head(dataset)
 
