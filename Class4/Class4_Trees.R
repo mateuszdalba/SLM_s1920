@@ -65,7 +65,7 @@ plot(rpart_initial)
 text(rpart_initial)
 
 # Choice of optimal tree on the basis of CV
-rpart_initial$cptable %>% head
+rpart_initial$cptable
 plotcp(rpart_initial)
 cp_optimal = rpart_initial$cptable[which(rpart_initial$cptable[,"xerror"]
                                          ==min(rpart_initial$cptable[,"xerror"])),"CP"]

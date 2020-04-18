@@ -1,6 +1,8 @@
 # SLM_S1920
 Repository for Statistical Learning Methods [223490-0286] - Summer semester 2019/20
 
+<b>Update: You can find your individually prescribed dataset for report in Datasets.csv above.</b>
+
 ---
 **Contact**
 
@@ -101,12 +103,6 @@ Code and descriptions/comments should be in Jupyter or R Markdown notebook. Both
 Each email should have 2 attachments: 
 - for Jupyter: `.ipynb` file and `.html/.pdf` file generated from notebook, 
 - for R Markdown:  `.Rmd` file and `.html/.pdf` file generated from notebook.
-
-Below table of randomly picked datasets. If someone is missing on the list please contact me. If there is more than one dataset under given hyperlink, pick one.
-
-| Index  | Dataset Name                                        | URL                                                                                          | Data Types                             | Default Task                | Attribute Types             | # Instances | # Attributes |
-|--------|-----------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|-----------------------------|-----------------------------|-------------|--------------|
-TBA
 
 ---
 **Grading rules**
